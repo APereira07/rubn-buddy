@@ -1,1 +1,1 @@
-# rubn-buddy
+# run-buddy
